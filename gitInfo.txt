@@ -2,3 +2,4 @@ I am git!
 I have changed!
 I have changed again!
 I have been changed third!
+manage change!
